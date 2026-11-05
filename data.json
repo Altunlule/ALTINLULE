@@ -7,9 +7,20 @@
   "lng": "35.3140922",
   "hours": "Her gün 12:00 - 02:00",
   "instagram": "altinluleadana",
-  "about": "Altın Lüle; Adana'da nargile keyfini ve nargile aksesuarlarını bir araya getiren bir mekan. Kafemizde nargile içebilir, aksesuar ürünlerimizi tüm Türkiye'ye kargolatabilirsiniz."
+  "about": "Altın Lüle; Adana'da nargile keyfini ve nargile aksesuarlarını bir araya getiren bir mekan. Kafemizde nargile içebilir, aksesuar ürünlerimizi tüm Türkiye'ye kargolatabilirsiniz.",
+  "introParts": {},
+  "theme": {},
+  "texts": {}
  },
- "hero": [],
- "cats": [],
+ "hero": [
+  "uploads/mw3dfaqoklr0.png"
+ ],
+ "cats": [
+  {
+   "id": "doy0jfe",
+   "name": "Malzeme",
+   "img": "uploads/mw3dfl0yuwbx.png"
+  }
+ ],
  "prods": []
 }
